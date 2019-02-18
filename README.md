@@ -1,2 +1,0 @@
-# practice
-practicing using GitHub
